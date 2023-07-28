@@ -123,6 +123,7 @@ celerybeat.pid
 .env
 .venv
 env/
+myenv/
 test.py/
 venv/
 ENV/
